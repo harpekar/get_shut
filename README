@@ -1,0 +1,3 @@
+This is a small Python script that takes in a string on the command line and displays the first search result for that string on Shutterstock. 
+
+It depends on the HTTP Requests library, imageio for image display, and the HTML parser BeautifulSoup.
